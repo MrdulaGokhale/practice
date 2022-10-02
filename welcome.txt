@@ -1,1 +1,1 @@
-Hi.. Welcome to training!!
+Hi.. Welcome to training!! Editing is easy with nano editor!
