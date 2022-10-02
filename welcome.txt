@@ -1,1 +1,2 @@
 Hi.. Welcome to training!! Editing is easy with nano editor!
+I am ckeckin that when i commit every time whether file is swapped!!!!
